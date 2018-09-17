@@ -24,7 +24,7 @@ schreiben Sie einfach einen Tweet an @nbg_ticketfrei, wo und in welcher
 Richtung diese gerade unterwegs sind. Unser Bot retweetet das dann, damit auch
 alle anderen über die Bedrohung Bescheid wissen.
 
-Damit wollen wir dass ÖPNV endlich für alle zugänglich wird. Zu viele Menschen
+Damit wollen wir, dass ÖPNV endlich für alle zugänglich wird. Zu viele Menschen
 können sich VAG-Tickets leider nicht leisten - gerade die, die ihre MobiCard am
 Ende des Monats kaufen, müssen oft zwischen der MobiCard und dem letzten
 Wocheneinkauf abwägen. Damit endlich alle Menschen in Nürnberg/Fürth/Erlangen
